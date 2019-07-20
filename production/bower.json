@@ -1,0 +1,21 @@
+{
+  "name": "Production",
+  "authors": [
+    "Hardik <hardikvu0204@gmail.com>"
+  ],
+  "description": "Demo",
+  "main": "index.html",
+  "keywords": [
+    "Demo"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

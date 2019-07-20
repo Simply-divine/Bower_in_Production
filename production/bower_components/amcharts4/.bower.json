@@ -1,0 +1,15 @@
+{
+  "name": "amcharts4",
+  "homepage": "https://github.com/amcharts/amcharts4",
+  "version": "4.5.8",
+  "_release": "4.5.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.5.8",
+    "commit": "06d7a8d03bd9417cdd95b12df8c6e8def96d7d6d"
+  },
+  "_source": "https://github.com/amcharts/amcharts4.git",
+  "_target": "^4.5.8",
+  "_originalSource": "amcharts4",
+  "_direct": true
+}
